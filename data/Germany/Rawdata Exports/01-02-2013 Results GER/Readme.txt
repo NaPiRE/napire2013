@@ -1,0 +1,2 @@
+Cleaned Dataset: Export der Datensätze mit vollständig beendeten Teilnahmen
+Complete Dataset: Export der Datensätze inkl. der, die mitten in der Teilnahme ohne Wiederaufnahme abgebrochen haben und der, dessen Email-Adresse nicht korrekt war (weiß nicht, ob das Sinn macht - daher vorsichtshalber mit aufgenommen).
